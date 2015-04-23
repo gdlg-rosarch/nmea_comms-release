@@ -2,6 +2,11 @@
 Changelog for package nmea_comms
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.0 (2015-04-23)
+------------------
+
+* Release to Jade.
+
 1.0.1 (2014-04-21)
 ------------------
 * Add roslint, automatic style fixes.
