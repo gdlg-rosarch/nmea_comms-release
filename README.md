@@ -1,3 +1,26 @@
+## nmea_comms (kinetic) - 1.1.0-0
+
+The packages in the `nmea_comms` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic nmea_comms` on `Thu, 15 Dec 2016 01:23:39 -0000`
+
+The `nmea_comms` package was released.
+
+Version of package(s) in repository `nmea_comms`:
+
+- upstream repository: https://github.com/ros-drivers/nmea_comms.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## nmea_comms (jade) - 1.1.0-0
 
 The packages in the `nmea_comms` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade nmea_comms --new-track` on `Thu, 23 Apr 2015 19:45:40 -0000`
